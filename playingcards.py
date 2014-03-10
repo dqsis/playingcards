@@ -20,7 +20,7 @@ def twopairs(hand):
 # Call function    
 control = twopairs(hand)
 
-# Control and dutput results
+# Control and output results
 if len(control) == 2:
     print('There are 2 pairs in your hand!', )
     print(control)
